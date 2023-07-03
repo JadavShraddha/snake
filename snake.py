@@ -1,3 +1,10 @@
+# steps for bulid snake game in python
+# 1.Installing Pygame
+# 2.Create the Screen
+# 3.Create the Snake
+
+
+
 import pygame
 import time
 import random
